@@ -29,4 +29,9 @@ and "Action" will pass through Dispatcher and Store then back to "View"**
 
 ## Data flow demo vedio 
 
-![](https://i.imgur.com/mtjU1Dr.gif)
+![](https://i.imgur.com/hbKUZT2.gif)
+
+## Event flow demo vedio 
+
+![](https://i.imgur.com/gLOskrb.gif)
+
