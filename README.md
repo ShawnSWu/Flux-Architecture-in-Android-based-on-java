@@ -21,3 +21,12 @@ The Android Flux architecture was proposed by Facebook to build their client web
 
         >**These three parts are all communicated through "Actions".
  "Action" is a simple basic object in project.**
+ 
+ * Below is data flow demo, we trigger an event through "View" and "View" will create an event to create an "Action" by "ActionCreator", 
+ * 
+> **Below is data flow demo, we trigger an event through "View" and "View" will create an event to create an "Action" by "ActionCreator", 
+and "Action" will pass through Dispatcher and Store then back to "View"**
+
+## Demo vedio 
+
+![](https://i.imgur.com/mtjU1Dr.gif)
